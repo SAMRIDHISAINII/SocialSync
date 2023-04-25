@@ -1,5 +1,4 @@
 # SocialSync
-
 ## Features
 #### Social Media Post Scheduling (No limits, virtually unlimited users) 
 #### Scheduled Post - Review & Cancel (Can view/cancel scheduled posts) 
