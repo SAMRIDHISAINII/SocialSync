@@ -10,5 +10,5 @@
 #### File Support 
 #### Highly Configurable Settings with Frontend UI (Synced to local ini file, dynamically generated) 
 #### Multi - Account Management 
-#### Easy Time-zone management 
+#### Easy Time-zone management .
 
